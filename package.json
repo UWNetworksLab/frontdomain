@@ -1,0 +1,25 @@
+{
+  "version": "0.0.0",
+  "name": "frontdomain",
+  "description": "Simple utility for representing domain-fronted access in a single domain name",
+  "contributors": [
+    "Ben Schwartz <bemasc@uproxy.org>"
+  ],
+  "homepage": "https://github.com/uProxy/frontdomain",
+  "license": "Apache2",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:uProxy/frontdomain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uProxy/uproxy/issues"
+  },
+  "main": "src/frontdomain.js",
+  "keywords": [
+    "domain fronting"
+  ],
+  "files": [
+    "src",
+    "LICENSE"
+  ]
+}
